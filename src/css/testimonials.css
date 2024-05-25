@@ -1,13 +1,20 @@
+.section-testimonials {
+  padding: 40px 0;
+}
 .section-title {
   text-align: left;
   font-weight: 500;
   font-size: 32px;
   line-height: 1.4;
   letter-spacing: -0.03em;
+  margin-bottom: 40px;
   color: #fcf9f9;
 }
 .customer-img {
-  margin: 0 auto;
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .customer-name {
   font-weight: 600;
@@ -16,14 +23,17 @@
   text-align: center;
   color: #fcf9f9;
   letter-spacing: 0;
+  margin-bottom: 8px;
 }
 .customer-opinion {
   font-size: 14px;
   text-align: center;
   letter-spacing: 0;
+  color: rgba(252, 249, 249, 0.4);
 }
 .testimonial-card {
   border: 1px solid rgba(252, 249, 249, 0.1);
   border-radius: 4px;
-  padding: 0px 22px 18px;
+  padding: 78px 22px 18px;
+  position: relative;
 }
