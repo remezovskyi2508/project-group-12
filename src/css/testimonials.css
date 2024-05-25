@@ -1,0 +1,29 @@
+.section-title {
+  text-align: left;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1.4;
+  letter-spacing: -0.03em;
+  color: #fcf9f9;
+}
+.customer-img {
+  margin: 0 auto;
+}
+.customer-name {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  color: #fcf9f9;
+  letter-spacing: 0;
+}
+.customer-opinion {
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+}
+.testimonial-card {
+  border: 1px solid rgba(252, 249, 249, 0.1);
+  border-radius: 4px;
+  padding: 0px 22px 18px;
+}
