@@ -16,6 +16,12 @@
   left: 50%;
   transform: translateX(-50%);
 }
+.customer-item {
+  border: 1px solid rgba(252, 249, 249, 0.1);
+  border-radius: 4px;
+  padding: 78px 22px 18px;
+  position: relative;
+}
 .customer-name {
   font-weight: 600;
   font-size: 20px;
@@ -31,9 +37,6 @@
   letter-spacing: 0;
   color: rgba(252, 249, 249, 0.4);
 }
-.testimonial-card {
-  border: 1px solid rgba(252, 249, 249, 0.1);
-  border-radius: 4px;
-  padding: 78px 22px 18px;
-  position: relative;
+.slick-track{
+  padding-top: 24px;
 }
