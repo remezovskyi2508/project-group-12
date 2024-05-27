@@ -67,13 +67,11 @@
     line-height: 1.45;
   }
   .customer-item {
+    margin-right: 32px;
     padding: 54px 18px 18px;
   }
   .customer-opinion {
     font-size: 16px;
-  }
-  .slick-slide {
-    margin-right: 32px;
   }
   .slick-current {
     display: flex;
@@ -86,7 +84,7 @@
     max-width: 1280px;
     padding: 0 50px;
   }
-  .slick-slide {
+  .customer-item {
     margin-right: 26px;
   }
 }
