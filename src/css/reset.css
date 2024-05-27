@@ -1,4 +1,5 @@
 /* Reset styles */
+body,
 h1,
 h2,
 h3,
@@ -22,6 +23,10 @@ ul {
 a {
   color: currentColor;
   text-decoration: none;
+}
+
+address {
+  font-style: normal;
 }
 
 button {
